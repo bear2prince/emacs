@@ -8,3 +8,4 @@ master c1
 master c2
 server c3
 server c4
+server c10
