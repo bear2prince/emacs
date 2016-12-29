@@ -8,3 +8,4 @@ master c1
 master c2
 server c3
 client c8
+client c9
