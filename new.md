@@ -12,3 +12,4 @@ master c5
 master c6
 client c8
 client c9
+server c10
